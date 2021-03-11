@@ -338,3 +338,6 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+# Ignore weights (they have to be downloaded via an extern provider) 
+/CronnBlogProject/assets/yolov4-valorant_last.weights
